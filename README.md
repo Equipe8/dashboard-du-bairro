@@ -12,8 +12,8 @@ Atividade desenvolvida em grupo, esse projeto foi uma continuação do projeto D
 
 <h2>Funções de cada integrante do grupo:clipboard:</h2>
 
- - Lucas Galdino ----> Criar os gráficos :heavy_check_mark:
  - Lucas Alves ----> Criar o menu lateral :heavy_check_mark:
+ - Lucas Galdino ----> Criar os gráficos :heavy_check_mark:
  - Ryan Marinho ----> Arrumar o posicionamento dos elemento na página (gráficos) :heavy_check_mark:
  - Tiago Soares ----> Responsável em estilizar e posicionar os elementos do Header :heavy_check_mark:
  - Vitor Geovani ----> Criar os gráficos :heavy_check_mark:
