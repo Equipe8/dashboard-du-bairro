@@ -15,7 +15,7 @@ Atividade desenvolvida em grupo, esse projeto foi uma continuação do projeto D
  - Lucas Galdino ----> Criar os gráficos :heavy_check_mark:
  - Lucas Alves ----> Criar o menu lateral :heavy_check_mark:
  - Ryan Marinho ----> Arrumar o posicionamento dos elemento na página :heavy_check_mark:
- - Tiago Soares ----> Responsável pelo Header :heavy_check_mark:
+ - Tiago Soares ----> Responsável em estilizar e posicionar os elementos do Header :heavy_check_mark:
  - Vitor Geovani ----> Criar os gráficos :heavy_check_mark:
 
 <h2>Ferramenta utilizada para o desenvolvimento do projeto:toolbox:</h2>
