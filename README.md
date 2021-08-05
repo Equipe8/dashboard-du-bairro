@@ -1,4 +1,4 @@
-<h1>Dashboard do restaurante Du-Bairro</h1>
+<h1>Dashboard do restaurante Du-Bairro  	:chart_with_upwards_trend:</h1>
 
 Atividade desenvolvida em grupo, esse projeto foi uma continuação do projeto Du-Bairro restaurante, é um dashboard desenvolvido para calcular os gasto da empresa Du-Bairro, nele você consegue está visualizando o quanto a empresa lucra e você consegue ver o total de vendas da empresa a quantidade de clientes que visitam a empresa e etc.
 
